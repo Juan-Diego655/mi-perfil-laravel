@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="{{ asset('css/estilos.css') }}">
 <h1>Mi Perfil</h1>
 <p>Nombre: Tu Nombre</p>
 <p>Carrera: Ingeniería de Sistemas</p>

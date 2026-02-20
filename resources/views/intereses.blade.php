@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="{{ asset('css/estilos.css') }}">
 <h1>Intereses</h1>
 <ul>
 <li>Programación</li>

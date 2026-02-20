@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="{{ asset('css/estilos.css') }}">
 <h1>Metas</h1>
 <ul>
 <li>Ser desarrollador backend</li>
